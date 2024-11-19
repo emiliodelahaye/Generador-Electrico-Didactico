@@ -30,6 +30,6 @@ difference(){
 
 translate([31,0,0]) rotate([0,90,0]) tapa(11,2,2); //tapa trasera
 
-color("red") translate([-11,0,0]) rotate([0,90,0]) tapa(20,11.7,8); //tapa delantera
+color("red") translate([-14,0,0]) rotate([0,90,0]) tapa(20,11.7,11); //tapa delantera
 
 interiortotal();
